@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/op_sensores"
+        android:title="Sensores" />
+    <item
+        android:id="@+id/op_act_sensores"
+        android:title="Vista de estado en 'sensores'" />
+    <item
+        android:id="@+id/op_login"
+        android:title="Login" />
+    <item
+        android:id="@+id/op_alarmas"
+        android:title="Alarmas" />
+    <item
+        android:id="@+id/op_noticias"
+        android:title="Noticias" />
+    <item
+        android:id="@+id/op_control"
+        android:title="Control de aplicaciones" />
+    <item
+        android:id="@+id/op_bluetooth"
+        android:title="Bluetooth" />
+    </group>
+
+</menu>
